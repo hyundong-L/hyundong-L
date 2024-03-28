@@ -13,7 +13,7 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Xcode-147EFB?&style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/nvim-57A143?style=for-the-badge&logo=Neovim&logoColor=white">
 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h2> <br> 
