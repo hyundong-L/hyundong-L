@@ -9,7 +9,7 @@
 <h2></h2>
 
 ### Blog
-<a href="https://hyundong-l.github.io/"><img src="https://img.shields.io/badge/Tech Blog-181717?style=for-the-badge&logo=github&logoColor=white&link==https://hyundong-l.github.io/"></a>
+<a href="https://hyundong-l.github.io/"><img src="https://img.shields.io/badge/Github Blog-181717?style=for-the-badge&logo=github&logoColor=white&link==https://hyundong-l.github.io/"></a>
 
 <h2></h2>
 
