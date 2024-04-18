@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,java,linux,spring,mysql)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,vim,neovim)](https://skillicons.dev)
 
 <h2></h2>
 
