@@ -1,7 +1,7 @@
 ## Hi! Welcome to Hyundong's Page 👋
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,html,java,linux,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,java,linux,spring,mysql)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,vim,neovim)](https://skillicons.dev)
