@@ -3,7 +3,7 @@
 * Back-End Developer
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,java,spring,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,spring,mysql,linux)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,vim,neovim)](https://skillicons.dev)
