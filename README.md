@@ -1,5 +1,4 @@
 ## Introduction
-* Hyundong Lee
 * Back-End Developer
 
 ## Skills
