@@ -15,10 +15,17 @@
   <tr align="center">
     <td>Sangmyung Univ</td>
     <td><a href="https://github.com/eco-cycle">Eco Cycle</a></td>
-    <td>Back-End</td>
+    <td>Back-End Engineering</td>
     <td>24.08</td>
     <td>SW 융합 해커톤 대회 우수상</td>
   </tr>
+<!--   <tr align="center">
+    <td>GDSC</td>
+    <td><a href="https://github.com/Junior-Team-Project">GIUT</a></td>
+    <td>Full-Stack Engineering</td>
+    <td>24.03 - </td>
+    <td></td>
+  </tr> -->
 </table>
 
 <br/>
