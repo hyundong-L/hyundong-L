@@ -19,13 +19,13 @@
     <td>24.08</td>
     <td>SW 융합 해커톤 대회 우수상</td>
   </tr>
-<!--   <tr align="center">
+  <tr align="center">
     <td>Google Developer Student Clubs. Sangmyung</td>
     <td><a href="https://github.com/Junior-Team-Project">GIUT</a></td>
     <td>Full-Stack Engineering</td>
     <td>24.03 - </td>
     <td></td>
-  </tr> -->
+  </tr>
 </table>
 
 <br/>
