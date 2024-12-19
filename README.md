@@ -12,13 +12,13 @@
     <th>Period</th>
     <th>Note</th>
   </tr>
-  <tr align="center">
+<!--   <tr align="center">
     <td>Sangmyung Univ</td>
     <td><a href="https://github.com/eco-cycle">Eco Cycle</a></td>
     <td>Back-End Engineering</td>
     <td>24.08</td>
     <td>SW 융합 해커톤 대회 우수상</td>
-  </tr>
+  </tr> -->
   <tr align="center">
     <td>Google Developer Student Clubs. Sangmyung</td>
     <td><a href="https://github.com/Junior-Team-Project">GIUT</a></td>
