@@ -1,9 +1,9 @@
-## Introduction
+## 📂 Introduction
 ...
 
 <br/>
 
-## Projects
+## 🗂️ Projects
 <table>
   <tr>
     <th>Organization</th>
@@ -23,18 +23,39 @@
     <td>Google Developer Student Clubs. Sangmyung</td>
     <td><a href="https://github.com/Junior-Team-Project">GIUT</a></td>
     <td>Full-Stack Engineering</td>
-    <td>24.03 - </td>
+    <td>24.04 - </td>
     <td></td>
   </tr>
 </table>
 
 <br/>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,java,spring,mysql,aws)](https://skillicons.dev)
+## 🛠️ Skills
+<table>
+  <tr>
+    <td align="center">Language</td>
+    <td>
+      <img alt="c" width="43px" src="https://skillicons.dev/icons?i=c"/>
+      <img alt="python" width="43px" src="https://skillicons.dev/icons?i=py"/>
+      <img alt="java" width="43px" src="https://skillicons.dev/icons?i=java"/>
+    </td>
+  </tr>
 
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,vim,neovim)](https://skillicons.dev)
+  <tr>
+    <td align="center">Back-End</td>
+    <td>
+      <img alt="spring" width="43px" src="https://skillicons.dev/icons?i=spring"/>
+      <img alt="mysql" width="43px" src="https://skillicons.dev/icons?i=mysql"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Infra</td>
+    <td>
+      <img alt="aws" width="43px" src="https://skillicons.dev/icons?i=aws"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
