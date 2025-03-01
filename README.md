@@ -12,6 +12,13 @@
     <th>Period</th>
     <th>Note</th>
   </tr>
+  <tr align="center">
+    <td>Goormthon Univ</td>
+    <td><a href="https://github.com/hyundong-L/2024_DANPOON_TEAM_32_BE_REFACTORING">U Map</a></td>
+    <td>Back-End Engineering</td>
+    <td>24.11</td>
+    <td></td>
+  </tr>
 <!--   <tr align="center">
     <td>Sangmyung Univ</td>
     <td><a href="https://github.com/eco-cycle">Eco Cycle</a></td>
@@ -33,17 +40,9 @@
 ## 🛠️ Skills
 <table>
   <tr>
-    <td align="center">Language</td>
-    <td>
-      <img alt="c" width="43px" src="https://skillicons.dev/icons?i=c"/>
-      <img alt="python" width="43px" src="https://skillicons.dev/icons?i=py"/>
-      <img alt="java" width="43px" src="https://skillicons.dev/icons?i=java"/>
-    </td>
-  </tr>
-
-  <tr>
     <td align="center">Back-End</td>
     <td>
+      <img alt="java" width="43px" src="https://skillicons.dev/icons?i=java"/>
       <img alt="spring" width="43px" src="https://skillicons.dev/icons?i=spring"/>
       <img alt="mysql" width="43px" src="https://skillicons.dev/icons?i=mysql"/>
     </td>
