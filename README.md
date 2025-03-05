@@ -29,7 +29,7 @@
   <tr align="center">
     <td>GDSC Sangmyung</td>
     <td><a href="https://github.com/Junior-Team-Project">GIUT</a></td>
-    <td>Full-Stack Engineering</td>
+    <td>Back-End Engineering</td>
     <td>24.04 - </td>
     <td></td>
   </tr>
