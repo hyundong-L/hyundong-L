@@ -40,6 +40,13 @@
 ## 🛠️ Skills
 <table>
   <tr>
+    <td align="center">Front-End</td>
+    <td>
+      <img alt="swift" width="43px" src="https://skillicons.dev/icons?i=swift"/>
+    </td>
+  </tr>
+  
+  <tr>
     <td align="center">Back-End</td>
     <td>
       <img alt="java" width="43px" src="https://skillicons.dev/icons?i=java"/>
