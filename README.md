@@ -42,7 +42,8 @@
   <tr>
     <td align="center">Front-End</td>
     <td>
-      <img alt="swift" width="43px" src="https://skillicons.dev/icons?i=swift"/>
+<!--       <img alt="ts" width="43px" src="https://skillicons.dev/icons?i=ts"/>
+      <img alt="react" width="43px" src="https://skillicons.dev/icons?i=react"/> -->
     </td>
   </tr>
   
@@ -59,6 +60,7 @@
     <td align="center">Infra</td>
     <td>
       <img alt="aws" width="43px" src="https://skillicons.dev/icons?i=aws"/>
+      <img alt="linux" width="43px" src="https://skillicons.dev/icons?i=linux"/>
     </td>
   </tr>
 </table>
