@@ -1,5 +1,4 @@
 ## 📂 Introduction
-🐢 백엔드 공부 중...
 
 <!--
 ## 🗂️ Projects
@@ -38,12 +37,12 @@
 <br/>
 
 ## 🛠️ Skills
-<table>
+<!-- <table>
   <tr>
     <td align="center">Front-End</td>
     <td>
-<!--       <img alt="ts" width="43px" src="https://skillicons.dev/icons?i=ts"/>
-      <img alt="react" width="43px" src="https://skillicons.dev/icons?i=react"/> -->
+      <img alt="ts" width="43px" src="https://skillicons.dev/icons?i=ts"/>
+      <img alt="react" width="43px" src="https://skillicons.dev/icons?i=react"/>
     </td>
   </tr>
   
@@ -63,7 +62,7 @@
       <img alt="linux" width="43px" src="https://skillicons.dev/icons?i=linux"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 
